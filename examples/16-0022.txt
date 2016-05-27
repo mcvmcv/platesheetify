@@ -1,0 +1,98 @@
+Experiment: E16-032  Active filters: FAM (465-510), Cy 5 / Cy 5.5 (618-660)
+Include	Color	Pos	Name	465-510	618-660	Call	Score	Status
+True	16744448	A1	Sample 1	24.245	3.363	Allele X	0.80	
+True	255	A3	Sample 3	11.028	10.786	Both Alleles	0.46	* - Manually edited
+True	3200768	A5	Sample 5	1.093	5.222	Allele Y	0.43	* - Manually edited
+True	8421504	A7	Sample 7	0.389	2.923	Negative	0.91	* - Manually edited
+True	16744448	A9	Sample 9	26.194	8.458	Allele X	1.00	
+True	16744448	A11	Sample 11	25.340	8.617	Allele X	0.98	
+True	16744448	A13	Sample 13	24.246	7.335	Allele X	0.98	
+True	16744448	A15	Sample 15	24.136	8.820	Allele X	0.96	
+True	16744448	A17	Sample 17	23.420	9.107	Allele X	0.94	
+True	16744448	A19	Sample 19	25.463	9.197	Allele X	0.96	
+True	16744448	A21	Sample 21	18.569	6.753	Allele X	0.96	
+True	16744448	A23	Sample 23	18.264	2.182	Allele X	0.77	
+True	16744448	C1	Sample 49	22.127	7.082	Allele X	0.99	
+True	16711935	C3	Sample 51	12.488	3.814	Unknown	0.98	* - Manually edited
+True	16744448	C5	Sample 53	21.623	6.251	Allele X	0.96	
+True	16744448	C7	Sample 55	25.626	7.505	Allele X	0.97	
+True	8421504	C9	Sample 57		0.277	Negative	0.00	
+True	16711935	C11	Sample 59	13.585	7.607	Unknown	0.76	* - Manually edited
+True	16744448	C13	Sample 61	22.402	6.986	Allele X	0.99	
+True	8421504	C15	Sample 63	0.109		Negative	0.00	
+True	16744448	C17	Sample 65	28.249	9.417	Allele X	0.99	
+True	16744448	C19	Sample 67	20.843	7.440	Allele X	0.97	
+True	16744448	C21	Sample 69	22.167	8.046	Allele X	0.96	
+True	16744448	C23	Sample 71	25.851	8.890	Allele X	0.98	
+True	16744448	E1	Sample 97	21.718	7.790	Allele X	0.97	
+True	16744448	E3	Sample 99	25.267	8.461	Allele X	0.99	
+True	16744448	E5	Sample 101	25.509	8.541	Allele X	0.99	
+True	16744448	E7	Sample 103	23.050	7.616	Allele X	0.99	
+True	16744448	E9	Sample 105	24.723	8.434	Allele X	0.98	
+True	16744448	E11	Sample 107	24.960	8.713	Allele X	0.98	
+True	16744448	E13	Sample 109	24.180	7.719	Allele X	0.99	
+True	16744448	E15	Sample 111	26.758	8.953	Allele X	0.99	
+True	16744448	E17	Sample 113	23.474	8.327	Allele X	0.97	
+True	16744448	E19	Sample 115	27.422	9.746	Allele X	0.97	
+True	16744448	E21	Sample 117	23.383	8.708	Allele X	0.95	
+True	16744448	E23	Sample 119	22.889	8.340	Allele X	0.96	
+True	16744448	G1	Sample 145	21.519	7.173	Allele X	0.99	
+True	16744448	G3	Sample 147	25.037	8.736	Allele X	0.98	
+True	16744448	G5	Sample 149	23.087	8.263	Allele X	0.97	
+True	16744448	G7	Sample 151	21.358	7.429	Allele X	0.98	
+True	16744448	G9	Sample 153	25.832	8.527	Allele X	0.99	
+True	16744448	G11	Sample 155	25.046	8.872	Allele X	0.97	
+True	16744448	G13	Sample 157	28.122	10.200	Allele X	0.96	
+True	16744448	G15	Sample 159	26.994	9.568	Allele X	0.97	
+True	16744448	G17	Sample 161	27.336	9.425	Allele X	0.98	
+True	16744448	G19	Sample 163	26.406	9.707	Allele X	0.96	
+True	16744448	G21	Sample 165	24.583	8.840	Allele X	0.97	
+True	16744448	G23	Sample 167	24.472	9.177	Allele X	0.95	
+True	16744448	I1	Sample 193	21.974	9.024	Allele X	0.92	
+True	16744448	I3	Sample 195	23.897	8.947	Allele X	0.95	
+True	16744448	I5	Sample 197	25.289	9.791	Allele X	0.94	
+True	16744448	I7	Sample 199	25.034	9.509	Allele X	0.95	
+True	16744448	I9	Sample 201	22.615	8.888	Allele X	0.93	
+True	16744448	I11	Sample 203	25.451	9.340	Allele X	0.96	
+True	16744448	I13	Sample 205	20.860	7.440	Allele X	0.97	
+True	16744448	I15	Sample 207	20.748	7.834	Allele X	0.95	
+True	16744448	I17	Sample 209	24.637	9.129	Allele X	0.95	
+True	16744448	I19	Sample 211	28.697	10.638	Allele X	0.96	
+True	16744448	I21	Sample 213	27.049	9.765	Allele X	0.96	
+True	16744448	I23	Sample 215	24.361	9.340	Allele X	0.94	
+True	16744448	K1	Sample 241	22.553	8.263	Allele X	0.96	
+True	16744448	K3	Sample 243	20.675	7.579	Allele X	0.96	
+True	16744448	K5	Sample 245	27.959	10.639	Allele X	0.95	
+True	16744448	K7	Sample 247	24.287	8.479	Allele X	0.98	
+True	16744448	K9	Sample 249	22.321	8.279	Allele X	0.95	
+True	16744448	K11	Sample 251	24.211	9.564	Allele X	0.93	
+True	16744448	K13	Sample 253	23.994	8.906	Allele X	0.95	
+True	16744448	K15	Sample 255	25.042	9.404	Allele X	0.95	
+True	16744448	K17	Sample 257	19.961	7.458	Allele X	0.95	
+True	8421504	K19	Sample 259	0.183	1.020	Negative	0.00	
+True	16744448	K21	Sample 261	25.707	9.726	Allele X	0.95	
+True	16744448	K23	Sample 263	22.728	8.369	Allele X	0.96	
+True	16744448	M1	Sample 289	21.112	8.127	Allele X	0.94	
+True	16744448	M3	Sample 291	22.756	8.879	Allele X	0.94	
+True	16744448	M5	Sample 293	26.091	10.532	Allele X	0.92	
+True	16744448	M7	Sample 295	27.594	10.042	Allele X	0.96	
+True	16744448	M9	Sample 297	25.089	9.738	Allele X	0.94	
+True	8421504	M11	Sample 299	0.251	2.006	Negative	0.00	
+True	16744448	M13	Sample 301	23.859	9.559	Allele X	0.93	
+True	8421504	M15	Sample 303	0.183	1.251	Negative	0.00	
+True	16744448	M17	Sample 305	25.045	9.034	Allele X	0.96	
+True	8421504	M19	Sample 307	0.192	1.465	Negative	0.00	
+True	16744448	M21	Sample 309	24.410	8.572	Allele X	0.97	
+True	16744448	M23	Sample 311	25.959	10.362	Allele X	0.93	
+True	16744448	O1	Sample 337	23.125	9.064	Allele X	0.93	
+True	16744448	O3	Sample 339	24.932	10.054	Allele X	0.92	
+True	16744448	O5	Sample 341	19.900	7.792	Allele X	0.93	
+True	16744448	O7	Sample 343	23.948	9.697	Allele X	0.92	
+True	16744448	O9	Sample 345	23.851	9.629	Allele X	0.92	
+True	8421504	O11	Sample 347	0.162	1.737	Negative	0.00	
+True	16744448	O13	Sample 349	24.453	9.694	Allele X	0.93	
+True	16744448	O15	Sample 351	23.112	9.344	Allele X	0.92	
+True	16744448	O17	Sample 353	22.652	8.312	Allele X	0.96	
+True	16744448	O19	Sample 355	22.774	8.533	Allele X	0.95	
+True	16711935	O21	Sample 357	14.239	5.723	Unknown	0.92	* - Manually edited
+True	16744448	O23	Sample 359	23.332	9.116	Allele X	0.93	
